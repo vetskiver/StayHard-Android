@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/dall_e_2023_12_10_23_42_27___a_motivational_icon_for_habit_tracking__titled__stay_hard___the_design_incorporates_a_strong__bold_font_for_the_title__stay_hard__integrated_into_the_"/>
+    <foreground android:drawable="@drawable/dall_e_2023_12_10_23_42_27___a_motivational_icon_for_habit_tracking__titled__stay_hard___the_design_incorporates_a_strong__bold_font_for_the_title__stay_hard__integrated_into_the_" />
+    <monochrome android:drawable="@drawable/dall_e_2023_12_10_23_42_27___a_motivational_icon_for_habit_tracking__titled__stay_hard___the_design_incorporates_a_strong__bold_font_for_the_title__stay_hard__integrated_into_the_"/>
+</adaptive-icon>
